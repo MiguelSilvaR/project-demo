@@ -1,0 +1,3 @@
+class Mult {
+	//code
+}
